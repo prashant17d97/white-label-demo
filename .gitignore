@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+/package-lock.json
+.DS_Store
+dist/
+build/
+coverage/
+*.log
+*.tsbuildinfo
+.idea/
+.vscode/
+*.suo
+*.ntvs*
