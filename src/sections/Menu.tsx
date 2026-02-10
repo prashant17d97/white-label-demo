@@ -1,6 +1,6 @@
 'use client';
 
-import { Flex, FontWeight, GapToken, Heading, Text, ColorSemantic } from "@white-label/ui-components";
+import { Flex, FontWeight, GapToken, Heading, Text } from "@white-label/ui-components";
 
 
 const NAV_SECTIONS = [

@@ -2,6 +2,8 @@
 
 This document outlines the standard practices and guidelines for using the `@white-label/ui-components` library in our projects. It serves as a reference for maintaining consistency and leveraging the full power of our design system.
 
+[Presentation Link](https://express.adobe.com/id/urn:aaid:sc:AP:08127d41-601c-495d-80db-c9553567d537?accept=true%3Fpreload%3Dsharesheet&category=search)
+
 ## 1. Introduction
 
 The `@white-label/ui-components` library provides a comprehensive set of React components designed to replace native HTML elements and ensure a consistent visual language across our applications. By using these components, developers can focus on application logic while relying on the library for styling, accessibility, and responsiveness.

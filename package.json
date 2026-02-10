@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "postinstall": "node scripts/transform-css.js",
+    "generate": "white-label-generate",
+    "predev": "white-label-generate",
+    "prebuild": "white-label-generate",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
@@ -12,7 +14,7 @@
     "next": "16.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@white-label/ui-components": "git+https://github.com/prashant17d97/white-label-ui.git#master"
+    "@white-label/ui-components": "git+https://github.com/prashant17d97/white-label-ui.git#refactorisation"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",
